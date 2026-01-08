@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://Academic-Codex.github.io/FCM0101-Fisica-I">
-    <img src=".github/readme/hero.svg?v=2026-01-08T00:13:36.069721Z" width="100%" alt="Access the course website" />
+    <img src=".github/readme/hero.svg?v=2026-01-08T00:47:24.536850Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
